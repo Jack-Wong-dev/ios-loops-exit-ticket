@@ -26,6 +26,11 @@ for number in 4..<8{
 
 print(myNum)
 ```
+// 1st loop : myNum : 12
+// 2nd loop: myNum : 17
+// 3rd loop: myNum : 23
+// 4th loop: program terminates due to break
+**Output is 23**
 
 ***
 ## Question 2
@@ -59,6 +64,7 @@ for l in 1...100 where _ < 101 {
     print(l)
 }
 ```
+**B, C**
 
 ***
 ## Question 3
@@ -72,6 +78,7 @@ for _ in 1...10{
     }
 }
 ```
+**100 Times**
 
 ***
 ## Question 4
@@ -117,5 +124,5 @@ while t == t{
     t += 1
 }
 ```
-
+**A, D**
 ***
